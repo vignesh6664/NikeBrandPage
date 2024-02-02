@@ -12,7 +12,9 @@ const Navbar = () => {
         <li>Category</li>
         <li>Contact</li>
       </ul>
-      <button>Login</button>
+      <button class="button type1">
+  <span class="btn-txt">Login</span>
+</button>
     </nav>
   );
 };
